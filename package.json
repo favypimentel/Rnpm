@@ -1,0 +1,23 @@
+{
+  "name": "ejemplonpm",
+  "version": "1.0.0",
+  "description": "ejemplo1",
+  "main": "index.js",
+  "dependencies": {
+    "user": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/favypimentel/Rnpm.git"
+  },
+  "author": "faviana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/favypimentel/Rnpm/issues"
+  },
+  "homepage": "https://github.com/favypimentel/Rnpm#readme"
+}
